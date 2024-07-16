@@ -1,0 +1,2 @@
+;; Generated package description from let-alist.el  -*- no-byte-compile: t -*-
+(define-package "let-alist" "1.0.6.0.20240102.14710" "Easily let-bind values of an assoc-list by their names" '((emacs "24.1")) :commit "7f377407b4b7d6ac9994ed983d7516bc42139885" :url "https://elpa.gnu.org/packages/let-alist.html" :authors '(("Artur Malabarba" . "emacs@endlessparentheses.com")) :maintainer '("Artur Malabarba" . "emacs@endlessparentheses.com") :keywords '("extensions" "lisp"))
