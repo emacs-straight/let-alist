@@ -1,2 +1,2 @@
-;; Generated package description from let-alist.el  -*- no-byte-compile: t -*-
-(define-package "let-alist" "1.0.6.0.20260101.125434" "Easily let-bind values of an assoc-list by their names" '((emacs "24.1")) :commit "17ddfd66e65c19f44dee41ee1b7ee1ce23ef3ed2" :url "https://elpa.gnu.org/packages/let-alist.html" :authors '(("Artur Malabarba" . "emacs@endlessparentheses.com")) :maintainer '("Artur Malabarba" . "emacs@endlessparentheses.com") :keywords '("extensions" "lisp"))
+;; Generated package description from let-alist.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "let-alist" "1.0.6.0.20260315.121536" "Easily let-bind values of an assoc-list by their names" '((emacs "24.1")) :commit "fe9f6a5872ba979989d139af047bf689c67cbcaf" :url "https://elpa.gnu.org/packages/let-alist.html" :authors '(("Artur Malabarba" . "emacs@endlessparentheses.com")) :maintainer '("Artur Malabarba" . "emacs@endlessparentheses.com") :keywords '("extensions" "lisp"))
